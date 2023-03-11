@@ -1,69 +1,82 @@
-## Your Name
+## Ana Carolina Rodrigues Soares
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After years of studying human behaviour and working with effective interventions in the psychological field  I decided to venture into a new challenge: studying and understanding the world of programming.  
+With a pinch of curiosity as my driving force, I delved deeper into programming. As I immersed myself in course after course I became convinced that I found myself. Now I only needed to dive right in to become a professional in this exciting and mysterious new field. That’s Why I embarked on my journey with Makers, where I can gain the practical experience to succeed in this new career.
+
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Project                 | Description                  | Technologies    | 
+|-------------------------|------------------------------|-----------------|
+| [Java-chess](https://github.com/carolrs/chess-system)            | Command line Java application that reproduces the movements of chess. | Java 8+ |
+| [Product Register System](https://github.com/carolrs/project-register) | Spring boot web application with a CRUD of products.                  | Java 8, Spring Boot, JPA, MySQL, maven |
+| [Social Media App](https://github.com/carolrs/social-media-mongo)        | Spring boot web application where the user can add comments to predefined Posts in a NoSQL MongoDB.                                                                                         | Java 8, Spring Boot, Restful API, NoSQL MongoDB, maven |
+| [HR System Microservices](https://github.com/carolrs/ms-project) | HR system to manage users, workers db and basic payroll system built in a microservices architecture using Spring Cloud (Discovery Server Eureka, Config Server, Zuul Gateway, Feign, Ribbon), authentication system with OAUTH2 and docker.   | Java 8, Spring Boot, Spring Cloud, JPA, MySQL, OAUTH2 with JWT, docker containers |
+|[Despachante Mailer _Backend_](https://github.com/carolrs/despachante-mailer) | Back end of system where user uploads documents and/or images and they are sent by email to client | Docker, gradle, Spring boot Mail API, MVC, Java 11, Deployment in cloud |
+|[Despachante Web _Frontend_](https://github.com/carolrs/despacho-website) | Front end of system where user uploads documents and/or images and they are sent by email to client | HTML, css, javascript, Bootstrap css  |
+
+
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**4 De Abril Despachante** (Solicitor’s Office) - (October 2022 to current)
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+_Full-stack web Developer_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+https://www.despachante4deabril.com.br (work in progress)
 
-- Any experience relevent to software development
+Responsible for creating and maintaining the website.
 
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+**Technologies used:** Java 11, Spring Boot, HTML, Bootstrap css
 
 
-Here's an example
+## Soft Skills
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+My experience as a behaviour analyst in the field of autism has provided me with valuable skills that are highly relevant to programming. Specifically, my work in behavioural analysis has honed my attention to detail and my ability to identify patterns of behaviour. 
 
-#### Another skill
+Also, my experience in problem-solving, including identifying issues, creating interventions, and devising specific solutions for each case, has made me someone who is focused on finding solutions even when faced with difficult challenges. I believe that the key to solving problems is to break them down into small pieces and tackle them one by one.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+In addition, my work has taught me the importance of adaptability and flexibility in approach. Each case is unique and requires a different solution, so I always keep an open mind and I am willing to adjust my approach as needed. Finally, as a psychologist, I have been trained to have a strong analytical mindset, with an emphasis on analytic evaluation and research. That skillset has proven invaluable in my work as a behaviour analyst and would be equally useful in the field of programming.
 
-#### Another skill
+
+* Problem-solving and finding solutions in difficult situations
+* Emphasis on breaking down problems into small pieces
+* Adaptability and flexibility in approach for unique cases
+* Strong analytical mindset from psychology training
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (February 2023 to current)
+- Programming logic using Ruby concepts
+- Used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- OOP, TDD
+- Ruby
+- RSpec
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### USP (University of São Paulo) (February to March 2022)
+_Python: Girls in programming -  Introduction to programming_ 
+- Basic concepts of programming using Python
+- Work in group to solve algorithms
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+### UDEMY - Java Microservices with Spring Boot and Spring Cloud (October 2021)
+- Java 8
+- Spring Cloud: Feign, Ribbon, Hystrix, Discovery Server Eureka, API Gateway Zuul, Config Server
+- Security: OAuth, JWT
 
-## Hobbies
+### UDEMY - Java Complete: Object Oriented Programming + Projects (April 2021 to May 2021)
+- Java 8
+- OOP
+- UML
+- Database: JDBC, JPA, Hibernate, MySQL, MongoDB
+- Spring Boot
 
-Any cool stuff that makes you a super part of a software development team
+
+### UDEMY - Java - Programming Logic - April 2021
+- Basic Programming Logic for beginners (Equivalent to Programming Logic tought in the Universities)
+
+
+### Anhembi Morumbi, Brasil (2013 to 2018) 
+_Degree in Psychology_
