@@ -80,3 +80,8 @@ _Python: Girls in programming -  Introduction to programming_
 
 ### Anhembi Morumbi, Brasil (2013 to 2018) 
 _Degree in Psychology_
+
+### Hobbies and Interests
+- **Volunteering:** In my free time I like to do voluntering work. I was recently helping people with learning disabilities to go out and socialise at Share Community
+- **Cycling:** Although I’m not a pro. I’m more of a summer cyclist enthusiast 
+- **Cooking:** I like to explore the world of cooking
