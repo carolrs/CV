@@ -21,7 +21,7 @@ With a pinch of curiosity as my driving force, I delved deeper into programming.
 
 **4 De Abril Despachante** (Solicitor’s Office) - (October 2022 to current)
 
-_Full-stack web Developer_
+_Full-stack web Developer_ (Freelancer)
 
 https://www.despachante4deabril.com.br (work in progress)
 
