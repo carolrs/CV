@@ -34,7 +34,7 @@ Responsible for creating and maintaining the website.
 
 My experience as a behaviour analyst in the field of autism has provided me with valuable skills that are highly relevant to programming. Specifically, my work in behavioural analysis has honed my attention to detail and my ability to identify patterns of behaviour. 
 
-Also, my experience in problem-solving, including identifying issues, creating interventions, and devising specific solutions for each case, has made me someone who is focused on finding solutions even when faced with difficult challenges. I believe that the key to solving problems is to break them down into small pieces and tackle them one by one.
+Also, my experience in problem-solving, including identifying issues, creating interventions, and solving specific solutions for each case, has made me someone who is focused on finding solutions even when faced with difficult challenges. I believe that the key to solving problems is to break them down into small pieces and tackle them one by one.
 
 In addition, my work has taught me the importance of adaptability and flexibility in approach. Each case is unique and requires a different solution, so I always keep an open mind and I am willing to adjust my approach as needed. Finally, as a psychologist, I have been trained to have a strong analytical mindset, with an emphasis on analytic evaluation and research. That skillset has proven invaluable in my work as a behaviour analyst and would be equally useful in the field of programming.
 
