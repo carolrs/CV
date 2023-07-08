@@ -7,7 +7,8 @@ I'm Ana,a Makers Academy graduate.
 
 ## Portfolio:
 https://carolrsoares.netlify.app
--->
+
+
 ## 🧰 Languages and Tools:
 <p align="left">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -43,6 +44,7 @@ With a pinch of curiosity as my driving force, I delved deeper into programming.
 | [Study-Buddy](https://github.com/carolrs/study-buddy)              |MERN Stack application. Forum for study support | MERN, Openai api Javascrip |
 [nasa-data](https://github.com/carolrs/nasa-data)              | Web application that allows you to explore various aspects of space and astronomy. |React, Nasa API |
 [news-article](https://github.com/carolrs/news-article)              | This project is a search application that utilizes the New York Times and OpenWeatherMap API. |React, NY Times API,OpenWeatherMap API.|
+|[art-exhibition](https://github.com/carolrs/art-exhibition)              | This is an Art Search app that allows users to search for artworks in the Rijksmuseum collection. |React,Rijksmuseum API.|
 | [acebook-clone](https://github.com/carolrs/acebook-mern-water-team)               |MERN Stack application. Facebook clone | MERN |
 | [Java-chess](https://github.com/carolrs/chess-system)            | Command line Java application that reproduces the movements of chess. | Java 8+ |
 | [Product Register System](https://github.com/carolrs/project-register) | Spring boot web application with a CRUD of products.                  | Java 8, Spring Boot, JPA, MySQL, maven |
