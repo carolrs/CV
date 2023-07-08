@@ -84,11 +84,14 @@ In addition, my work has taught me the importance of adaptability and flexibilit
 ## Education
 
 #### Makers Academy (February 2023 to current)
-- Programming logic using Ruby concepts
-- Used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- OOP, TDD
-- Ruby
-- RSpec
+
+* Completed an intensive 16-week bootcamp, gaining foundational knowledge and hands-on experience in full-stack development.
+* Acquired strong skills in Ruby, Sinatra and RSpec bolstering my back-end development and testing capabilities .
+* Developed proficiency in database, SQL and MongoDB, enhancing my ability to handle data-driven applications.
+* Gained experience in JavaScript,Jest, React, Cypress and Node.js, strengthening my front-end, back-end development and testing skills for scalable web applications.
+* Worked on various personal and group projects, showcasing my ability to work independently and collaboratively.
+* The highlight of the course was the development of 'Study Buddy', an AI-enhanced educational platform.
+* Collaborated with a team to manage and complete Agile tickets, reinforcing my project management skills and experience in Agile methodologies.
 
 
 #### USP (University of São Paulo) (February to March 2022)
