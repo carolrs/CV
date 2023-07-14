@@ -2,7 +2,7 @@
 
 I'm Ana,a Makers Academy graduate.
 - 🔭 I’m currently working on `Despachante 4 de Abril`
-- 🌱 I’m currently improving my React and  css skills
+- 🌱 I’m currently improving my React and  TypeScript
 - 📫 How to reach me: https://www.linkedin.com/in/anacarolrsoares/
 
 ## Portfolio:
